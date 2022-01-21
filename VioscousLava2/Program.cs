@@ -11,6 +11,7 @@ namespace VioscousLava2
         static void Main(string[] args)
         {
             Console.WriteLine("VL2");
+            Console.WriteLine();
         }
     }
 }
